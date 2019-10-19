@@ -12,11 +12,11 @@
   - Preferences
     - Working through logic
 
-## Probability of Distribution
+### Probability of Distribution
 
 - Outcomes and Frequency
  
-## Central limit theorem
+### Central limit theorem
 
 - Example
   - Flip coins N times
@@ -33,7 +33,7 @@
 - Not everything all normal distribution
   - stock salves 
 
-## Six Sigma
+### Six Sigma
 
 - A normal distribution
   - 1-$\sigma$: 68%
@@ -44,7 +44,7 @@
 - Control the total amount(in stock)
 - control the standard derivation to meet failure in 6 sigma
 
-## Game of Life
+### Game of Life
 
 - A simple model to illustration the Aggregation behavior
 - John Conway, 數學家
@@ -57,7 +57,7 @@
 - Logic Right:
   - Simple rules produce incredible phenomena
 
-## 1D Cellular Automate
+### 1D Cellular Automate
 
 - Introduction 
   - 逢諾伊曼 design the game.
@@ -96,7 +96,7 @@
   - it from bit
   - Complexity and randomness requires interdependency
 
-## Aggregation preference
+### Aggregation preference
 
 - Preference ordering
   - how many preference ordering: example of 3 things => 8 possibility
@@ -116,3 +116,29 @@
     - C > A : 2
     - A > B > C > A
   
+## Decision model
+
+- Normative(規範性): make us better at deciding 
+- Positive: predict behavior of others
+  - policy choice, nominations, platforms, investments, technologies choice
+- Class of Decision model
+  - Multi-criterion: a list of criteria and choice solution according to the criteria
+    - Measurement distance between the criteria dimensions and the desired goal.
+  - Probabilistic: handling uncertainty
+    - decision according to current event and following outcomes.
+    - value of information
+
+### Multi-dimension decision 
+
+- list of a criterion and alternatives table
+- check meet criterion items
+- give quantity of each criterion index
+
+### Spatial choice model
+
+- Geographical distance
+- Antony Downs
+- distance of the spectrum of two side.(left and right side)
+- given ideal goal point => measure distance in multi-dimensional => choice the one closest to the ideal
+
+### Probability 
