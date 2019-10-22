@@ -142,3 +142,16 @@
 - given ideal goal point => measure distance in multi-dimensional => choice the one closest to the ideal
 
 ### Probability 
+
+### Decision Tree
+
+- Draw the tree 
+- Write down payoff and probabilities
+- Solve backwards
+
+### value of information
+
+- Calculate value without the information
+- Calculate value with the information
+- Calculate the difference
+- How much to worth to know the information
